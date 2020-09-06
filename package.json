@@ -28,7 +28,7 @@
     "browserify": "^11.2.0",
     "bunyan": "^1.4.0",
     "chance": "^0.6.1",
-    "clean-css": "^3.0.7",
+    "clean-css": "^4.2.3",
     "compression": "^1.5.2",
     "connect-mongo": "^0.8.2",
     "cookie": "^0.2.0",
